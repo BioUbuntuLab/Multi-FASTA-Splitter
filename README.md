@@ -1,11 +1,11 @@
 # Multi-FASTA-Splitter
 
-A lightweight fast windows gui app that splits a multi fasta file to individual single fasta files  
+A lightweight fast ubuntu gui app that splits a multi fasta file to individual single fasta files
 
 ## Citations
 
 1. Shen, W., Sipos, B., & Zhao, L. (2024). SeqKit2: A Swiss army knife for sequence and alignment processing. iMeta, 3(3), e191. doi: [10.1002/imt2.191](https://doi.org/10.1002/imt2.191)
-2. Tsiouri Olga. Multi FASTA Splitter: A lightweight fast windows gui app that splits a multi fasta file to individual single fasta files.[https://github.com/BioGUIwsl1Lab/Multi-FASTA-Splitter](https://github.com/BioGUIwsl1Lab/Multi-FASTA-Splitter)
+2. Tsiouri Olga. Multi FASTA Splitter: A lightweight fast windows gui app that splits a multi fasta file to individual single fasta files.[https://github.com/BioUbuntuLab/Multi-FASTA-Splitter](https://github.com/BioUbuntuLab/Multi-FASTA-Splitter)
 
 ## Dependencies
 
@@ -15,7 +15,7 @@ A lightweight fast windows gui app that splits a multi fasta file to individual 
 
 ## Usage 
 
-Click on the `FASTA Small Seq Collector.exe` file
+Click on the `FASTA Small Seq Collector` file
 
 ![](img/1.png)
 
