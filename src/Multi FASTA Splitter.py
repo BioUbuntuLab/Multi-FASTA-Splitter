@@ -9,7 +9,7 @@ def run_pipeline(input_file, progress_bar):
     progress_bar.start()
 
     # Escape spaces if they exist
-    input_file_fixed = input_file.replace(" ","\ ")
+    input_file_fixed = str(input_file).replace(" ","\ ")
 
     # Run command
     command = f"seqkit split -i --by-id-prefix \"\"  {input_file_fixed}"
