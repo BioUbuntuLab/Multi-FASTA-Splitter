@@ -13,3 +13,9 @@ tar –xvzf seqkit_linux_amd64.tar.gz
 ```Bash
 sudo mv seqkit /usr/bin/
 ```  
+4. download the file from the `bin` folder
+
+5. convert to executable
+```Bash
+chmod +x Multi\ FASTA\ Splitter
+```
